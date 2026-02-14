@@ -7,7 +7,7 @@ This project demonstrates the usage of **useState**, button click events, and **
 
 ## 🚀 Live Demo
 
-🔗 Live Site: 
+🔗 Live Site: https://random-number-app-eight.vercel.app/
 
 ## 📂 GitHub Repository
 
