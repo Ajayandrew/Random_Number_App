@@ -11,7 +11,7 @@ This project demonstrates the usage of **useState**, button click events, and **
 
 ## 📂 GitHub Repository
 
-🔗 Repository:
+🔗 Repository: https://github.com/Ajayandrew/Random_Number_App.git
 
 ---
 
