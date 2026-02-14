@@ -5,8 +5,13 @@ This project demonstrates the usage of **useState**, button click events, and **
 
 ---
 
+## 🚀 Live Demo
 
+🔗 Live Site: 
 
+## 📂 GitHub Repository
+
+🔗 Repository:
 
 ---
 
@@ -41,5 +46,4 @@ The objective of this project is to understand:
 
 
 
-```md
-![Random Generator Screenshot](./screenshot.png)
+
