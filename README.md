@@ -44,6 +44,14 @@ The objective of this project is to understand:
 
 ---
 
+📂 Project Structure
+src/
+│── random.js
+│── random.css
+│── App.js
+│── index.js
+
+---
 
 
 
