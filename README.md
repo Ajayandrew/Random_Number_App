@@ -51,7 +51,9 @@ src/
 │── App.js
 │── index.js
 
----
+
+## 👨‍💻 Author
+**S. Ajay Andrew**
 
 
 
